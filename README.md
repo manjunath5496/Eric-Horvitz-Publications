@@ -1,3 +1,5 @@
+<p><strong>Eric Joel Horvitz</strong>&nbsp;(<span class="rt-commentedText nowrap"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English">/<span title="/ˈ/: primary stress follows">ˈ</span><span title="'h' in 'hi'">h</span><span title="/ɔːr/: 'ar' in 'war'">ɔːr</span><span title="'v' in 'vie'">v</span><span title="/ɪ/: 'i' in 'kit'">ɪ</span><span title="'t' in 'tie'">t</span><span title="'s' in 'sigh'">s</span>/</a></span></span>) is an American computer scientist, and Technical Fellow at&nbsp;<a title="Microsoft" href="https://en.wikipedia.org/wiki/Microsoft">Microsoft</a>, where he serves as the company's first Chief Scientific Officer.&nbsp;He was previously the director of&nbsp;<a title="Microsoft Research" href="https://en.wikipedia.org/wiki/Microsoft_Research">Microsoft Research</a>&nbsp;Labs, including research centers in Redmond, WA, Cambridge, MA, New York, NY, Montreal, Canada, Cambridge, UK, and Bangalore, India.</p>
+</br>
 <h2>  Publications </h2>
 
 <ul>
