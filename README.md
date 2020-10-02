@@ -66,7 +66,7 @@ Advancing Healthcare Research Via Consumer Mobile Devices</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(33).pdf" style="text-decoration:none;">Clustering for set partitioning with a case study in ridesharing</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(34).pdf" style="text-decoration:none;"> Crowdphysics: Planned and Opportunistic Crowdsourcing for Physical Tasks </a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(34).pdf" style="text-decoration:none;"> Signals in the Silence: Models of Implicit Feedback in a Recommendation System for Crowdsourcing</a></li> 
  
   <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(35).pdf" style="text-decoration:none;">Recollection versus Imagination: Exploring Human Memory and Cognition via Neural Language Models</a></li> 
 
@@ -285,7 +285,7 @@ Steering Machine Classification</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(148).pdf" style="text-decoration:none;">Task Routing for Prediction Tasks</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(149).pdf" style="text-decoration:none;">Task Routing for Prediction Tasks</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(149).pdf" style="text-decoration:none;">Implicit Queries (IQ) for Contextualized Search</a></li>   
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(150).pdf" style="text-decoration:none;">The Effects of Choice in Routing Relevance Judgments</a></li> 
 
@@ -321,5 +321,8 @@ Attribution of Search Activity in Multi-User Settings</a></li>
   <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(166).pdf" style="text-decoration:none;">Events and Controversies: Influences of a Shocking News Event on Information Seeking</a></li> 
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(167).pdf" style="text-decoration:none;">Diagnoses, Decisions, and Outcomes: Web Search as Decision Support for Cancer</a></li> 
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Eric-Horvitz-Publications/blob/master/eric(168).pdf" style="text-decoration:none;">How Social Information Networks Reflect Major Life Events: Case of Childbirth</a></li>  
+  
  
 </ul>
